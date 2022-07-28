@@ -2,6 +2,8 @@
 
 Contenful App to import a markdown file into a markdown field in Contenful.
 
+![screenshot](screenshot.png)
+
 ## Available Scripts
 This project was bootstrapped with [Create Contentful App](https://github.com/contentful/create-contentful-app).
 In the project directory, you can run:
